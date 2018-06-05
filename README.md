@@ -1,7 +1,5 @@
-# steamtricks-data
+# Moved to GitLab
 
-steamtricks companion data repository
-
-While steamtricks is the client/daemon that triggers and applies fixes,
-steamtricks-data is the repository that provides the instructions for making the
-fixes.
+This repository has moved to GitLab. This is merely an archive of the repository as it
+was before the move - all new development will happen on GitLab and will not
+be pushed to this repo. Visit the current repo [on gitlab: https://gitlab.com/zerodogg/steamtricks-data](https://gitlab.com/zerodogg/steamtricks-data)
